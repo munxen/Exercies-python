@@ -1,0 +1,1 @@
+I took a course on the book Erik Metiz "Learning Python". Tasks for independent work are attached to the course. All tasks from this book are stored in this repository
